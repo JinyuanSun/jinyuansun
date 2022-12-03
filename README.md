@@ -1,6 +1,5 @@
 ### Towards Computational Biology
-I am currently trying to dive into exploiting deep learning to tackle complex biological problems and eventually give people better lives.  
-This may be a long shot, but I will take the odds. 
+I am currently trying to dive into exploiting deep learning to tackle complex biological problems and eventually give people better lives. This may be a long shot, but I will take the odds. 
 - [PymolFold⚗️](https://github.com/JinyuanSun/PymolFold)  
   - Fold and design your protein in pymol.
   - [webapp](http://106.54.97.94:8501/)
