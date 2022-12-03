@@ -5,7 +5,7 @@ This may be a long shot, but I will take the odds.
   - Fold and design your protein in pymol.
   - [webapp](http://106.54.97.94:8501/)
 - [DDGScan🔥](https://github.com/JinyuanSun/DDGScan)
-  - Score, analysis and visualization of protein mutatin(s).
+  - Score, analysis and visualization of protein mutation(s).
   - [GRPAE-WEB](https://nmdc.cn/grape-web/)
 - [CMPP🧬](https://github.com/JinyuanSun/CMPP)
   - Fungal genome analysis.
