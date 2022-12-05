@@ -10,5 +10,7 @@ I am currently trying to dive into exploiting deep learning to tackle complex bi
   - Fungal genome analysis.
   - [webapp](http://cmpp.pioneer-x.cn/)  
 
+[![Jinyuan's GitHub stats](https://github-readme-stats.vercel.app/api?username=jinyuansun)](https://github.com/jinyuansun/github-readme-stats)
+
 If you would like to discuss anything about applying deep learning to biological problems, feel free to get in touch with me: <jinyuansun98@gmail.com>.  
-[Publications](https://scholar.google.com/citations?user=LbUNUWsAAAAJ&hl=en)
+[Publications](https://scholar.google.com/citations?user=LbUNUWsAAAAJ&hl=en).  
