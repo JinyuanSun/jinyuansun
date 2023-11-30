@@ -2,7 +2,11 @@
 I am currently trying to dive into exploiting deep learning to tackle complex biological problems and eventually give people better lives. This may be a long shot, but I will take the odds. 
 - [PymolFold⚗️](https://github.com/JinyuanSun/PymolFold)  
   - Fold and design your protein in pymol.
-  - [webapp](http://106.54.97.94:8501/)
+  - [webapp](https://fold.cloudmol.org/)
+- [ChatMol](https://github.com/JinyuanSun/ChatMol)
+  - ChatGPT in Pymol.
+  - [Offcial Website](https://chatmol.org/)
+  - [Online chatbot](https://chatmol.org/qa/)
 - [DDGScan🔥](https://github.com/JinyuanSun/DDGScan)
   - Score, analysis and visualization of protein mutation(s).
   - [GRPAE-WEB](https://nmdc.cn/grape-web/)
