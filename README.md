@@ -4,9 +4,10 @@ I am currently trying to dive into exploiting deep learning to tackle complex bi
   - Fold and design your protein in pymol.
   - [webapp](https://fold.cloudmol.org/)
 - [ChatMol](https://github.com/JinyuanSun/ChatMol)
-  - ChatGPT in Pymol.
+  - A comprehensive molecular design assistant
   - [Offcial Website](https://chatmol.org/)
-  - [Online chatbot](https://chatmol.org/qa/)
+- [GROMACS Copilot](https://github.com/ChatMol/gromacs_copilot)
+  - An AI agent for MD simulations using GROMCAS
 - [DDGScan🔥](https://github.com/JinyuanSun/DDGScan)
   - Score, analysis and visualization of protein mutation(s).
   - [GRPAE-WEB](https://nmdc.cn/grape-web/)
