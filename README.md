@@ -5,6 +5,8 @@ Here are my projects:
   - A comprehensive molecular design assistant
 - [GROMACS Copilot](https://github.com/ChatMol/gromacs_copilot) ![GitHub stars](https://img.shields.io/github/stars/ChatMol/gromacs_copilot)  
   - An AI agent for MD simulations using GROMCAS
+- [molecule-mcp](https://github.com/ChatMol/molecule-mcp) ![GitHub stars](https://img.shields.io/github/stars/ChatMol/molecule-mcp)
+  - A model-context-protocol server for molecules. 
 - [PymolFold](https://github.com/JinyuanSun/PymolFold) ![GitHub stars](https://img.shields.io/github/stars/JinyuanSun/PymolFold)  
   - Fold and design your protein in pymol.
 - [Pythia](https://github.com/Wublab/Pythia) ![GitHub stars](https://img.shields.io/github/stars/Wublab/Pythia)  
